@@ -1,3 +1,2 @@
 # References
-
-* octocat 1 😈
+Hehe I am the rival merge conflict
